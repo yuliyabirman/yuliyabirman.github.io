@@ -1,6 +1,7 @@
 title: Yuliya Birman
 description: "The Personal Homepage for Yuliya Birman"
 url:
+markdown: kramdown
 
 google_analytics: 
 show_downloads: true
