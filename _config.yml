@@ -1,11 +1,3 @@
-title: Yuliya Birman
+name: Yuliya Birman
 description: "The Personal Homepage for Yuliya Birman"
-url:
 markdown: kramdown
-
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-slate
-
-gems:
-  - jekyll-mentions
